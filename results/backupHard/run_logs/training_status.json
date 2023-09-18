@@ -1,0 +1,65 @@
+{
+    "GamerBird": {
+        "checkpoints": [
+            {
+                "steps": 1999134,
+                "file_path": "results/hardMode/GamerBird/GamerBird-1999134.onnx",
+                "reward": 54.40000003576279,
+                "creation_time": 1688096352.905544,
+                "auxillary_file_paths": [
+                    "results/hardMode/GamerBird/GamerBird-1999134.pt"
+                ]
+            },
+            {
+                "steps": 2380374,
+                "file_path": "results/hardMode/GamerBird/GamerBird-2380374.onnx",
+                "reward": null,
+                "creation_time": 1688097393.28064,
+                "auxillary_file_paths": [
+                    "results/hardMode/GamerBird/GamerBird-2380374.pt"
+                ]
+            },
+            {
+                "steps": 2499331,
+                "file_path": "results/hardMode copy/GamerBird/GamerBird-2499331.onnx",
+                "reward": null,
+                "creation_time": 1688097780.68873,
+                "auxillary_file_paths": [
+                    "results/hardMode copy/GamerBird/GamerBird-2499331.pt"
+                ]
+            },
+            {
+                "steps": 2998088,
+                "file_path": "results/hardMode copy/GamerBird/GamerBird-2998088.onnx",
+                "reward": null,
+                "creation_time": 1688099142.6002991,
+                "auxillary_file_paths": [
+                    "results/hardMode copy/GamerBird/GamerBird-2998088.pt"
+                ]
+            },
+            {
+                "steps": 3356180,
+                "file_path": "results/hardMode copy/GamerBird/GamerBird-3356180.onnx",
+                "reward": null,
+                "creation_time": 1688100130.0973592,
+                "auxillary_file_paths": [
+                    "results/hardMode copy/GamerBird/GamerBird-3356180.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3356180,
+            "file_path": "results/hardMode copy/GamerBird.onnx",
+            "reward": null,
+            "creation_time": 1688100130.0973592,
+            "auxillary_file_paths": [
+                "results/hardMode copy/GamerBird/GamerBird-3356180.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}

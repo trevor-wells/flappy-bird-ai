@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1688143278",
+        "python_version": "3.9.2 (default, May  3 2023, 15:15:55) \n[Clang 14.0.3 (clang-1403.0.22.14.1)]",
+        "command_line_arguments": "/Users/trevorwells/Development/code/unity/Flappy Agent/venv/bin/mlagents-learn config/GamerBird.yaml --run-id=easyMode --resume",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.11.0",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1688143308"
+    },
+    "total": 29.404117292000002,
+    "count": 1,
+    "self": 0.019318959000003133,
+    "children": {
+        "run_training.setup": {
+            "total": 0.015369707999999926,
+            "count": 1,
+            "self": 0.015369707999999926
+        },
+        "TrainerController.start_learning": {
+            "total": 29.369428624999998,
+            "count": 1,
+            "self": 0.002686623999995419,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 29.366616125,
+                    "count": 1,
+                    "self": 29.366616125
+                },
+                "trainer_threads": {
+                    "total": 3.6670000014282778e-06,
+                    "count": 1,
+                    "self": 3.6670000014282778e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 0.00012220900000059487,
+                    "count": 1,
+                    "self": 0.00012220900000059487
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "GamerBird": {
+        "checkpoints": [
+            {
+                "steps": 299193,
+                "file_path": "results/easyMode/GamerBird/GamerBird-299193.onnx",
+                "reward": null,
+                "creation_time": 1688087680.252465,
+                "auxillary_file_paths": [
+                    "results/easyMode/GamerBird/GamerBird-299193.pt"
+                ]
+            },
+            {
+                "steps": 434473,
+                "file_path": "results/easyMode/GamerBird/GamerBird-434473.onnx",
+                "reward": null,
+                "creation_time": 1688089483.1554718,
+                "auxillary_file_paths": [
+                    "results/easyMode/GamerBird/GamerBird-434473.pt"
+                ]
+            },
+            {
+                "steps": 444743,
+                "file_path": "results/easyMode/GamerBird/GamerBird-444743.onnx",
+                "reward": null,
+                "creation_time": 1688089557.3824131,
+                "auxillary_file_paths": [
+                    "results/easyMode/GamerBird/GamerBird-444743.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 444743,
+            "file_path": "results/easyMode/GamerBird.onnx",
+            "reward": null,
+            "creation_time": 1688089557.3824131,
+            "auxillary_file_paths": [
+                "results/easyMode/GamerBird/GamerBird-444743.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}

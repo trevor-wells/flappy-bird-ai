@@ -1,0 +1,65 @@
+{
+    "GamerBird": {
+        "checkpoints": [
+            {
+                "steps": 709714,
+                "file_path": "results/moderateMode/GamerBird/GamerBird-709714.onnx",
+                "reward": 1990.9000000953674,
+                "creation_time": 1688092285.643274,
+                "auxillary_file_paths": [
+                    "results/moderateMode/GamerBird/GamerBird-709714.pt"
+                ]
+            },
+            {
+                "steps": 865879,
+                "file_path": "results/moderateMode copy/GamerBird/GamerBird-865879.onnx",
+                "reward": null,
+                "creation_time": 1688093307.619892,
+                "auxillary_file_paths": [
+                    "results/moderateMode copy/GamerBird/GamerBird-865879.pt"
+                ]
+            },
+            {
+                "steps": 998340,
+                "file_path": "results/moderateMode copy/GamerBird/GamerBird-998340.onnx",
+                "reward": 55.40000009536743,
+                "creation_time": 1688093680.890048,
+                "auxillary_file_paths": [
+                    "results/moderateMode copy/GamerBird/GamerBird-998340.pt"
+                ]
+            },
+            {
+                "steps": 1258082,
+                "file_path": "results/moderateMode copy/GamerBird/GamerBird-1258082.onnx",
+                "reward": 239.89999961853027,
+                "creation_time": 1688094300.0229068,
+                "auxillary_file_paths": [
+                    "results/moderateMode copy/GamerBird/GamerBird-1258082.pt"
+                ]
+            },
+            {
+                "steps": 1267342,
+                "file_path": "results/moderateMode/GamerBird/GamerBird-1267342.onnx",
+                "reward": 29.899999618530273,
+                "creation_time": 1688143356.48471,
+                "auxillary_file_paths": [
+                    "results/moderateMode/GamerBird/GamerBird-1267342.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1267342,
+            "file_path": "results/moderateMode/GamerBird.onnx",
+            "reward": 29.899999618530273,
+            "creation_time": 1688143356.48471,
+            "auxillary_file_paths": [
+                "results/moderateMode/GamerBird/GamerBird-1267342.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}
